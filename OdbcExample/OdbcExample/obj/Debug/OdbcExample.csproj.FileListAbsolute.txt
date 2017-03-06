@@ -1,0 +1,6 @@
+c:\users\pack jun young\documents\visual studio 2015\Projects\OdbcExample\OdbcExample\bin\Debug\OdbcExample.exe.config
+c:\users\pack jun young\documents\visual studio 2015\Projects\OdbcExample\OdbcExample\bin\Debug\OdbcExample.exe
+c:\users\pack jun young\documents\visual studio 2015\Projects\OdbcExample\OdbcExample\bin\Debug\OdbcExample.pdb
+c:\users\pack jun young\documents\visual studio 2015\Projects\OdbcExample\OdbcExample\obj\Debug\OdbcExample.csprojResolveAssemblyReference.cache
+c:\users\pack jun young\documents\visual studio 2015\Projects\OdbcExample\OdbcExample\obj\Debug\OdbcExample.exe
+c:\users\pack jun young\documents\visual studio 2015\Projects\OdbcExample\OdbcExample\obj\Debug\OdbcExample.pdb
